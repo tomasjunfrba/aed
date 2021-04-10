@@ -1,1 +1,2 @@
 # aed
+Compilador: MinGW
