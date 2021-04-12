@@ -1,2 +1,2 @@
 # aed
-Compilador: MinGW
+Compilador: w64devkit
