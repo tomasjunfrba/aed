@@ -1,0 +1,1 @@
+Compilador: w64devkit
